@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Page Navigation</string>
+    <!--press string array-->
+    <string-array name="products">
+        <!--press ctrl+d to duplicate-->
+        <item>Unga</item>
+        <item>Milk</item>
+        <item>Sugar</item>
+        <item>Pencil</item>
+        <item>Milo</item>
+        <item>Pasta</item>
+        <item>Soap</item>
+        <item>Novida</item>
+        <item>Beer</item>
+        <item>Spirit</item>
+    </string-array>
+    <!--Services array-->
+    <string-array name="services">
+        <item>Repairs</item>
+        <item>Fixing roofs</item>
+        <item>Repairing Broken glasses</item>
+        <item>Car Wash</item>
+        <item>Counselling</item>
+        <item>Oiling</item>
+        <item>Tyre replacement</item>
+        <item>Engine Replacement</item>
+        <item>Alignment</item>
+        <item>Driver Training</item>
+    </string-array>
+</resources>
